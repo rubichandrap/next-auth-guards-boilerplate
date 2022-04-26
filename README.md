@@ -19,7 +19,7 @@ I'm using 3 authentication guard components as HOC of the Next Page:
 First of first, clone this repo:
 
 ```bash
-git clone https://gitlab.com/rubichandrap/nextjs-auth-guards-boilerplate
+git clone https://github.com/rubichandrap/nextjs-auth-guards-boilerplate
 ```
 
 Once you've done, run this command:
